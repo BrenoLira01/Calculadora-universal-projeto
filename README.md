@@ -7,6 +7,10 @@ Projeto desenvolvido na imersão dev da Alura. Este projeto é um conversor de:
 - 🚀 Anos luz em Quilômetros, e
 - 🌡️ Celsius em Fahrenheit.
 
+## 👀 Ver projeto
+
+Acesse o link [aqui](https://brenolira01.github.io/Calculadora-universal-projeto/).
+
 ## 🧠 Tecnologias Utilizadas
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
